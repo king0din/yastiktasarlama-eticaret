@@ -51,3 +51,17 @@ Projeye katkıda bulunmak isterseniz, lütfen bir `pull request` açmadan önce 
 
 Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
 
+
+
+
+## Canlı Site
+
+Projenin çalışan halini aşağıdaki bağlantıdan inceleyebilirsiniz:
+
+[Özel Yastık Tasarlama E-Ticaret Sitesi](https://özelyastıktasarlama.shop/)
+
+## Ekran Görüntüsü
+
+![Ana Sayfa Ekran Görüntüsü](ozel_yastik_tasarlama_anasayfa.webp)
+
+
