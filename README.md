@@ -63,5 +63,3 @@ Projenin çalışan halini aşağıdaki bağlantıdan inceleyebilirsiniz:
 ## Ekran Görüntüsü
 
 ![Ana Sayfa Ekran Görüntüsü](ozel_yastik_tasarlama_anasayfa.webp)
-
-
