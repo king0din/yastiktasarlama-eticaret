@@ -1,4 +1,4 @@
-# Yastık Tasarlama E-Ticaret Sitesi
+# Özel Baskılı Yastık Tasarlama E-Ticaret Sitesi
 
 Bu proje, kullanıcıların kendi yastık tasarımlarını oluşturup sipariş verebilecekleri bir e-ticaret platformudur. Dinamik ve interaktif bir alışveriş deneyimi sunmayı hedefler.
 
